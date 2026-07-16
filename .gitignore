@@ -3,3 +3,4 @@
 Bash
 __pycache__/
 *.pyc
+.env
